@@ -1,0 +1,69 @@
+body{
+	color: white;
+	background-color: #E0E0E0;
+	font-family: 'Fresca', sans-serif;
+}
+
+.container-fluid{
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.box {
+	font-size: 50px;
+}
+
+.parallax { 
+    /* The image used */
+    background-image: url("images/homePage.jpg");
+
+    /* Set a specific height */
+    height: 650px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 { 
+    /* The image used */
+    background-image: url("images/homePage2.jpg");
+
+    /* Set a specific height */
+    height: 650px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homePageBox{
+	background-color: #EEEEEE;
+	height: 500px;
+}
+
+.nav {
+	color: #ddd;
+	font-size: 20px;
+}
+
+.textContainer{
+	font-size: 50px;
+	color: black;
+	height: 400px;
+	padding-top: 30px;
+}
+
+.description{
+	color: #9E9E9E;
+	font-size: 20px;
+	padding: 0 50px 0 50px;
+}
+
+a{
+	color: white;
+}

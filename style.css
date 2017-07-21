@@ -15,7 +15,7 @@ body{
 
 .parallax { 
     /* The image used */
-    background-image: url("images/homePage.jpg");
+    background-image: url("images/image1.jpg");
 
     /* Set a specific height */
     height: 650px; 
@@ -29,7 +29,7 @@ body{
 
 .parallax2 { 
     /* The image used */
-    background-image: url("images/homePage2.jpg");
+    background-image: url("images/image2.jpg");
 
     /* Set a specific height */
     height: 650px; 
@@ -53,9 +53,9 @@ body{
 
 .textContainer{
 	font-size: 50px;
-	color: black;
+	color: #fff;
 	height: 400px;
-	padding-top: 30px;
+	padding-top: 10%;
 }
 
 .description{
@@ -66,4 +66,102 @@ body{
 
 a{
 	color: white;
+}
+
+
+/*--------------------------------------------------------------
+# Footer 
+--------------------------------------------------------------*/
+.footer{
+	background-color: #2a2a2a;
+
+}
+
+
+
+.footer-widget-container{
+	width: 33.3%;
+	float: left;
+	padding: 1%;
+	text-align: center;
+
+}
+.footer-widget-heading{
+	padding: 1%;
+	    font-size: xx-large;
+	        margin-bottom: 5%;
+
+}
+.footer-widget-sub-heading{
+	padding: 1%;
+	    font-size: large;
+	        margin-bottom: 2%;
+
+}
+.footer-contact-logo{
+
+}
+.footer-contact-info{
+	    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 3%;
+}
+.footer-contact-info-item{
+	    margin: 2% 0 2% 0;
+    padding: 2%;
+
+}
+.footer-social-item{
+	    padding: 5%;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 5%;
+	
+
+}
+.footer-social-item-icon{
+	
+	    padding: 1%;
+    float: left;
+    width: 12%;
+    font-size: xx-large;
+
+}
+.footer-social-item-text-area{
+	    padding: 5%;
+    float: left;
+    width: 80%;
+    text-align: left;
+
+}
+.footer-get-touch-form{
+	width: 70%;
+	margin: 0 auto;
+}
+.footer-get-touch-form-item{
+	    width: 100%;
+}
+.footer-tagline{
+	    clear: both;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 1%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	 font-family: 'Pacifico', cursive;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-size: large;
+
+}
+.footer-copyright{
+width: 80%;
+	margin: 0 auto;
+	text-align: center;
+		padding: 1%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+
 }

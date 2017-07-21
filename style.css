@@ -156,6 +156,10 @@ a{
     font-size: large;
 
 }
+.footer-copyright-area{
+	    background-color: rgba(0, 0, 0, 0.42);
+
+}
 .footer-copyright{
 width: 80%;
 	margin: 0 auto;

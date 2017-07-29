@@ -70,6 +70,67 @@ a{
 	color: white;
 }
 
+
+/*--------------------------------------------------------------
+# FAQs Page
+--------------------------------------------------------------*/
+
+.faq-questions-area{
+    padding: 5%;
+   
+
+}
+.faq-questions-div{
+    width: 50%;
+    padding: 2%;
+    float: left;
+
+}
+
+.faq-question-individual{
+    padding: 2%;
+
+}
+.faq-question-question{
+    text-align: justify;
+        font-weight: bold;
+    font-size: x-large;
+
+
+}
+.faq-question-answer{
+    margin-top: 2%;
+    text-align: justify;
+
+}
+.faq-contact-info-area{
+    width: 80%;
+    margin:0 auto;
+    clear: both;
+
+}
+.faq-contact-info{
+    padding: 5%;
+    text-align: center;
+    font-size: x-large;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*--------------------------------------------------------------
 # Customer Photos Area 
 --------------------------------------------------------------*/

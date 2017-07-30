@@ -1,5 +1,9 @@
+.container-fluid{
+    background-color: #fff;
+}
+
 body{
-	color: white;
+	
 	background-color: #E0E0E0;
 	font-family: 'Fresca', sans-serif;
 }
@@ -124,8 +128,79 @@ a{
 
 
 
+/*--------------------------------------------------------------
+# Video Area 
+--------------------------------------------------------------*/
+
+.video-area{
+    padding: 5%;
+    text-align: center;
+}
+  .home-page-how-it-works{
+    padding: 1%;
+
+    
 
 
+  }
+  .home-page-how-it-works-step{
+    float: left;
+    width: 33.33%;
+
+  }
+  .home-page-how-it-works-step-image-area{
+    text-align: center;
+
+  }
+  .home-page-how-it-works-step-image{
+    width: 150px;
+    height: 150px;
+
+  }
+  .home-page-how-it-works-step-heading{
+        font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 5%;
+
+  }
+  .home-page-how-it-works-step-content{
+        text-align: justify;
+    padding: 3%;
+    width: 80%;
+    margin: 0 auto;
+
+  }
+.home-page-how-it-works-button-area{
+    padding: 5%;
+    clear: both;
+
+
+
+}
+.home-page-how-it-works-button-space{
+    
+    width: 15%;
+    margin : 0 auto;
+    text-align: center;
+  
+
+
+
+}
+  .home-page-how-it-works-button{
+
+    
+    background-color:darkgoldenrod;
+   padding: 10%;
+
+  }
+  .home-page-how-it-works-button-text{
+        font-size: large;
+    font-weight: bolder;
+    
+
+  }
 
 
 
@@ -150,6 +225,16 @@ a{
 
 }
 
+.places-visited-image-area{
+    padding: 3%;
+    text-align: center;
+
+}
+.places-visited-image{
+    width: 500px;
+    height: 500px ;
+}
+
 /*--------------------------------------------------------------
 # SponsorShip Area 
 --------------------------------------------------------------*/
@@ -158,6 +243,7 @@ a{
     text-align: center;
     font-size: xx-large;
         margin-top: 3%;
+        color: #000;
 
   }
     .sponsor-list-area{
@@ -183,6 +269,7 @@ a{
 .footer{
 	background-color: #2a2a2a;
 	margin-top: 6%;
+    color : #fff;
 
 }
 
